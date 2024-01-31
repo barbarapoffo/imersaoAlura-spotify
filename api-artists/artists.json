@@ -1,0 +1,40 @@
+{
+  "artists": [
+    { 
+      "id": 1, 
+      "name": "System of a Down", 
+      "genre": "Rock", 
+      "urlImg": "https://i.scdn.co/image/ab67616d0000b2732dc63e977bd5101072adcef6" 
+    },{ 
+      "id": 2, 
+      "name": "Taylor Swift", 
+      "genre": "Pop", 
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" 
+    },{ 
+      "id": 3, 
+      "name": "Emicida", 
+      "genre": "Hip Hop", 
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" 
+    },{ 
+      "id": 4, 
+      "name": "Zé Neto e Cristiano", 
+      "genre": "Sertanejo", 
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb1bb9201db3ff149830f0139a" 
+    },{ 
+      "id": 5, 
+      "name": "Mc Ryan", 
+      "genre": "Funk", 
+      "urlImg": "https://i.scdn.co/image/ab67706c0000da84ca219921f19e86dc73f7a075" 
+    },{ 
+      "id": 6, 
+      "name": "Alcione", 
+      "genre": "Samba", 
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf16f69950aa77572af186792" 
+    },{ 
+      "id": 7, 
+      "name": "Clarice Falcão", 
+      "genre": "MPB", 
+      "urlImg": "https://i.scdn.co/image/ab67616d0000b27329f39b7a0f720753de1d4818" 
+    }
+  ]
+}
