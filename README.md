@@ -16,3 +16,8 @@ Exploração de Novas Tecnologias: Pretendo expandir meu conhecimento explorando
 
 Observações: Este é meu primeiro projeto desde que entrei na área, e estou aberta a feedbacks construtivos. 
 Agradeço à Alura pela oportunidade de participar da imersão front-end, que proporcionou um ambiente prático e desafiador para meu aprendizado inicial.
+
+https://github.com/barbarapoffo/imersaoAlura-spotify/assets/157536106/5e50b1b2-bb9f-4c1f-b093-d244b3c08710
+
+
+
